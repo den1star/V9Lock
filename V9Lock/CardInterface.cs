@@ -254,7 +254,7 @@ namespace AddIn
                     datastr = datastr + ((char)carddata[i]).ToString();
                 return datastr;
 
-                //MessageBox.Show("Успешная гостевая карта！");
+                
             }
             else
             {
