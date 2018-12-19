@@ -1,0 +1,5 @@
+C:\Users\SoDe\source\repos\V9Lock\V9Lock\bin\Debug\V9Lock.dll
+C:\Users\SoDe\source\repos\V9Lock\V9Lock\bin\Debug\V9Lock.pdb
+C:\Users\SoDe\source\repos\V9Lock\V9Lock\obj\Debug\V9Lock.csproj.CoreCompileInputs.cache
+C:\Users\SoDe\source\repos\V9Lock\V9Lock\obj\Debug\V9Lock.dll
+C:\Users\SoDe\source\repos\V9Lock\V9Lock\obj\Debug\V9Lock.pdb
